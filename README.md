@@ -3,7 +3,7 @@
 
 ## How to use
 ### 1. Setup local
-Get source code and install libraries.
+- 1: Get source code and install libraries.
 ```shell
 $ git clone hoge
 $ cd easy-workflow/firebase/functions
@@ -22,7 +22,7 @@ $ npm i
 - 1: Create new repository for workflow ticket.
 - 2: Add webhook.
 
-## 5. Deploy firebase app.
+### 5. Deploy firebase app.
 - 1: Set default project.
 ```shell
 $ firebase use --add <your_project_id>
