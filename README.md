@@ -1,5 +1,6 @@
 # easy-workflow
 
+![overview](./docs/img/overview.png)
 
 ## How to use
 ### 1. Setup local
